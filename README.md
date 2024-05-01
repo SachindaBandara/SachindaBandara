@@ -35,12 +35,14 @@
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,discord,express,figma,firebase,github,html,idea,java,js,materialui,mongodb,mysql,nodejs,py,react,tailwind,vscode&perline=14" />
   </a>
 </p>
+
+<br/>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
