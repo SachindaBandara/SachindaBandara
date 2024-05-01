@@ -31,7 +31,7 @@
 
 <br/><br/>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=SachindaBandara&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=SachindaBandara&column=9&margin-w=20&margin-h=20&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <br/>
 
