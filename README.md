@@ -7,7 +7,6 @@
 
 <br/>
 
-
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SachindaBandara&theme=dark&hide_border=true"/>
@@ -20,12 +19,10 @@
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=SachindaBandara&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 </td>
 
-
 <td width="40%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SachindaBandara&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=7"/>
+</td>
 
-  </td>
 </tr>
 </table>
 
