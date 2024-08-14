@@ -32,15 +32,17 @@
 
 <br/>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,discord,express,figma,firebase,github,html,idea,java,js,materialui,mongodb,mysql,nodejs,py,react,tailwind,vscode&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,discord,express,figma,firebase,github,html,idea,java,js,materialui,mongodb,mysql,nodejs,py,react,tailwind,vscode,php,laravel&perline=18" />
   </a>
 </p>
 
 <br/>
 
+[![@sachindabandara's Holopin board](https://holopin.me/sachindabandara)](https://holopin.io/@sachindabandara)
+<br/>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/sachinda bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinda bandara" height="30" width="40" /></a>
