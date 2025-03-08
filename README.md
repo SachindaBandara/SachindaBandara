@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Sachinda Bandara</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&size=25&center=true&vCenter=true&width=1000&height=100&lines=Undergraduate+at+Sabaragamuwa+University+of+Sri+Lanka;Volunteer+at+IEEE+Student+Branch+SUSL;Frontend+Developer;UI+/+UX+Designer;Graphic+Designer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&size=25&center=true&vCenter=true&width=1000&height=100&lines=Undergraduate+at+Sabaragamuwa+University+of+Sri+Lanka;Volunteer+at+IEEE+Student+Branch+SUSL;Full-Stack+Developer;"></a>
 </p>
 
 <br/>
